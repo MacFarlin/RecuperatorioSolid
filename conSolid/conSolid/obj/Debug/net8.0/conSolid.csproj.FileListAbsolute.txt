@@ -1,0 +1,14 @@
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\bin\Debug\net8.0\conSolid.exe
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\bin\Debug\net8.0\conSolid.deps.json
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\bin\Debug\net8.0\conSolid.runtimeconfig.json
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\bin\Debug\net8.0\conSolid.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\bin\Debug\net8.0\conSolid.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\obj\Debug\net8.0\conSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\obj\Debug\net8.0\conSolid.AssemblyInfoInputs.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\obj\Debug\net8.0\conSolid.AssemblyInfo.cs
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\obj\Debug\net8.0\conSolid.csproj.CoreCompileInputs.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\obj\Debug\net8.0\conSolid.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\obj\Debug\net8.0\refint\conSolid.dll
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\obj\Debug\net8.0\conSolid.pdb
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\obj\Debug\net8.0\conSolid.genruntimeconfig.cache
+C:\Users\UBICACION GAMER\Documents\UNPAZ\Tercer Año\Segundo Cuatrimestre\Laboratorio de Software\Recuperatorio SOLID\conSolid\conSolid\obj\Debug\net8.0\ref\conSolid.dll

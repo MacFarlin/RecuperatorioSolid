@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UBICACION GAMER\\Documents\\UNPAZ\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Laboratorio de Software\\Recuperatorio SOLID\\conSolid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958910FA-86A4-4CEE-99D0-CF2BDDCA1A2C}|conSolid\\conSolid.csproj|c:\\users\\ubicacion gamer\\documents\\unpaz\\tercer a\u00F1o\\segundo cuatrimestre\\laboratorio de software\\recuperatorio solid\\consolid\\consolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958910FA-86A4-4CEE-99D0-CF2BDDCA1A2C}|conSolid\\conSolid.csproj|solutionrelative:consolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958910FA-86A4-4CEE-99D0-CF2BDDCA1A2C}|conSolid\\conSolid.csproj|c:\\users\\ubicacion gamer\\documents\\unpaz\\tercer a\u00F1o\\segundo cuatrimestre\\laboratorio de software\\recuperatorio solid\\consolid\\consolid\\clases\\servicioderenderizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958910FA-86A4-4CEE-99D0-CF2BDDCA1A2C}|conSolid\\conSolid.csproj|solutionrelative:consolid\\clases\\servicioderenderizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioDeRenderizacion.cs",
+              "DocumentMoniker": "C:\\Users\\UBICACION GAMER\\Documents\\UNPAZ\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Laboratorio de Software\\Recuperatorio SOLID\\conSolid\\conSolid\\Clases\\ServicioDeRenderizacion.cs",
+              "RelativeDocumentMoniker": "conSolid\\Clases\\ServicioDeRenderizacion.cs",
+              "ToolTip": "C:\\Users\\UBICACION GAMER\\Documents\\UNPAZ\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Laboratorio de Software\\Recuperatorio SOLID\\conSolid\\conSolid\\Clases\\ServicioDeRenderizacion.cs",
+              "RelativeToolTip": "conSolid\\Clases\\ServicioDeRenderizacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:29:47.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UBICACION GAMER\\Documents\\UNPAZ\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Laboratorio de Software\\Recuperatorio SOLID\\conSolid\\conSolid\\Program.cs",
+              "RelativeDocumentMoniker": "conSolid\\Program.cs",
+              "ToolTip": "C:\\Users\\UBICACION GAMER\\Documents\\UNPAZ\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Laboratorio de Software\\Recuperatorio SOLID\\conSolid\\conSolid\\Program.cs",
+              "RelativeToolTip": "conSolid\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:56:31.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
